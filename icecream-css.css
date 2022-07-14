@@ -106,7 +106,7 @@ button {
   content: "";
 
   height: 279px;
-  background-image: url("../icecream/img-icecream/home-pic4-1.png");
+  background-image: url("../icecream-advantages-test/img-icecream/home-pic4-1.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -130,7 +130,7 @@ button {
   top: 0;
 
   height: 133px;
-  background-image: url("../icecream/img-icecream/sectionbg1-1.png");
+  background-image: url("../icecream-advantages-test/img-icecream/sectionbg1-1.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -189,11 +189,11 @@ button {
 }
 
 .milk-ingredients::before {
-  background-image: url("../icecream/img-icecream/milk-ingredients.png");
+  background-image: url("../icecream-advantages-test/img-icecream/milk-ingredients.png");
 }
 .apple-ingredients::before {
-  background-image: url("../icecream/img-icecream/apple-ingredients.png");
+  background-image: url("../icecream-advantages-test/img-icecream/apple-ingredients.png");
 }
 .heart-ingredients::before {
-  background-image: url("../icecream/img-icecream/heart-ingredients.png");
+  background-image: url("../icecream-advantages-test/img-icecream/heart-ingredients.png");
 }
